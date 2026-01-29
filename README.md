@@ -72,3 +72,4 @@ This ensures the CNN model learns effectively and generalizes to new images.
 - Practical face detection and recognition workflows  
 - Transition from theory → model training → real-world comparison  
 - Hands-on experience with computer vision pipelines  
+
